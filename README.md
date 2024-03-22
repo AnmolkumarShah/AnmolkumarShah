@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anmol Shah</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <div style="display: flex; justify-content: space-between;">
-    <p align="right"><img width="400" src="https://github.com/anmolkumarshah/anmolkumarshah/assets/52107296/9583ecf8-c397-4a2b-a368-15b99ab8c68a" alt="anmolshah" /></p>
+<!--     <p align="right"><img width="400" src="https://github.com/anmolkumarshah/anmolkumarshah/assets/52107296/9583ecf8-c397-4a2b-a368-15b99ab8c68a" alt="anmolshah" /></p> -->
     <p align="left"><img src="https://komarev.com/ghpvc/?username=anmolkumarshah&label=Profile%20views&color=0e75b6&style=flat" alt="anmolkumarshah" /></p>
     <p align="left"><a href="https://twitter.com/Anmolsh11315511" target="blank"><img src="https://img.shields.io/twitter/follow/Anmolsh11315511?logo=twitter&style=for-the-badge" alt="anmolshah" /></a></p>
 </div>
