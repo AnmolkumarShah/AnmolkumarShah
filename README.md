@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently working as **Software Engineer** at **Virtusa**
 
-- 🌱 I’m currently learning **DevOps**
-
 - 💬 Ask me about **Java , MERN, Appian, AWS**
 
 - 📫 How to reach me **anmolshah.job@gmail.com**
