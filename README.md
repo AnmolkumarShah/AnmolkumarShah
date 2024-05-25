@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anmol Shah</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h3 align="center">A Passionate FullStack Developer from India 🇮🇳</h3>
 <div style="display: flex; justify-content: space-between;">
 <!--     <p align="right"><img width="400" src="https://github.com/anmolkumarshah/anmolkumarshah/assets/52107296/9583ecf8-c397-4a2b-a368-15b99ab8c68a" alt="anmolshah" /></p> -->
     <p align="left"><img src="https://komarev.com/ghpvc/?username=anmolkumarshah&label=Profile%20views&color=0e75b6&style=flat" alt="anmolkumarshah" /></p>
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working as **Software Engineer** at **Virtusa**
 
-- 💬 Ask me about **Java , MERN, Appian, AWS**
+- 💬 Ask me about **Java, ReactJS, Appian, AWS**
 
 - 📫 How to reach me **anmolshah.job@gmail.com**
 
