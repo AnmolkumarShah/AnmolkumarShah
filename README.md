@@ -9,9 +9,9 @@
 
 
 
-- 🔭 I’m currently working as **Software Engineer** at **Virtusa**
+- 🔭 I’m currently working as **Software Engineer** at **NPCI BHIM UPI**
 
-- 💬 Ask me about **Java, ReactJS, Appian, AWS**
+- 💬 Ask me about **Java, ReactJS, Microservices, Kafka, Redis, Postgres DB & Fintech**
 
 - 📫 How to reach me **anmolshah.job@gmail.com**
 
